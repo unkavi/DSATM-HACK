@@ -1,5 +1,2 @@
 # DSATM-HACK
-frontend
-backend
-logic
-dev
+main br
